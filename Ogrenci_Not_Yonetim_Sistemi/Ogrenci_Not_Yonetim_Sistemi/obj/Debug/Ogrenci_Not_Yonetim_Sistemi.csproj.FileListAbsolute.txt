@@ -1,0 +1,7 @@
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Ogrenci_Not_Yonetim_Sistemi\Ogrenci_Not_Yonetim_Sistemi\bin\Debug\Ogrenci_Not_Yonetim_Sistemi.exe.config
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Ogrenci_Not_Yonetim_Sistemi\Ogrenci_Not_Yonetim_Sistemi\bin\Debug\Ogrenci_Not_Yonetim_Sistemi.exe
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Ogrenci_Not_Yonetim_Sistemi\Ogrenci_Not_Yonetim_Sistemi\bin\Debug\Ogrenci_Not_Yonetim_Sistemi.pdb
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Ogrenci_Not_Yonetim_Sistemi\Ogrenci_Not_Yonetim_Sistemi\obj\Debug\Ogrenci_Not_Yonetim_Sistemi.csproj.AssemblyReference.cache
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Ogrenci_Not_Yonetim_Sistemi\Ogrenci_Not_Yonetim_Sistemi\obj\Debug\Ogrenci_Not_Yonetim_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Ogrenci_Not_Yonetim_Sistemi\Ogrenci_Not_Yonetim_Sistemi\obj\Debug\Ogrenci_Not_Yonetim_Sistemi.exe
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Ogrenci_Not_Yonetim_Sistemi\Ogrenci_Not_Yonetim_Sistemi\obj\Debug\Ogrenci_Not_Yonetim_Sistemi.pdb
